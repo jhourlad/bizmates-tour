@@ -2,7 +2,7 @@
 
 Created the application using the following technologies:
 
-- PHP 7/8
+- PHP 8
 - Laravel 8.65
 - MySQL 5.7 or MariaDB 10.3
 - Vue
